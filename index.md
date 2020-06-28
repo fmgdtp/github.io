@@ -10,3 +10,6 @@ Hier gibt es eine kurze Beschreibung meines Lieblingsschauspielers. So etwa 30 b
 * Schlagfertig
 * Gelassen
 * Freundlich
+
+> Yippie-Ya-Yay,
+> Schweinebacke!
