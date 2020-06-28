@@ -13,3 +13,6 @@ Hier gibt es eine kurze Beschreibung meines Lieblingsschauspielers. So etwa 30 b
 
 > Yippie-Ya-Yay,
 > Schweinebacke!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/800px-Bruce_Willis_by_Gage_Skidmore_3.jpg">
+Foto: Gage Skidmore
